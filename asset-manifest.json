@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.863903b1.css",
+    "main.js": "/website/static/js/main.2a0db29d.js",
+    "static/media/Innocent-Omido-CV.pdf": "/website/static/media/Innocent-Omido-CV.a5389108d75197dab14a.pdf",
+    "static/media/profilepic.jpeg": "/website/static/media/profilepic.bcd3cdb0d34a23195f3d.jpeg",
+    "static/media/secondpic.jpg": "/website/static/media/secondpic.2363b6bd33c68ccee1d1.jpg",
+    "static/media/cucumber.png": "/website/static/media/cucumber.f1d2da0af2de849a8710.png",
+    "index.html": "/website/index.html",
+    "main.863903b1.css.map": "/website/static/css/main.863903b1.css.map",
+    "main.2a0db29d.js.map": "/website/static/js/main.2a0db29d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863903b1.css",
+    "static/js/main.2a0db29d.js"
+  ]
+}
